@@ -184,3 +184,8 @@ A* giúp tìm đường đi tối ưu với tốc độ nhanh hơn so với UCS 
 ## Tác giả
 
 Project thực hiện nhằm mục đích học tập và nghiên cứu các thuật toán tìm kiếm trong Trí tuệ nhân tạo.
+
+---
+
+##Link báo cáo
+https://drive.google.com/file/d/1dkkBR13hBuP9N0GS1nrdXt0DZYNSQKyW/view?usp=drive_link
