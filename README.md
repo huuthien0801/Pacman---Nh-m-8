@@ -1,4 +1,3 @@
-# Pacman-Nhóm-8
 # Pacman AI Search Project
 
 ## Giới thiệu
@@ -185,10 +184,3 @@ A* giúp tìm đường đi tối ưu với tốc độ nhanh hơn so với UCS 
 ## Tác giả
 
 Project thực hiện nhằm mục đích học tập và nghiên cứu các thuật toán tìm kiếm trong Trí tuệ nhân tạo.
-
----
-
-## License
-
-Dự án được sử dụng cho mục đích giáo dục.
-
